@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm noumen darryl</h1>
-<h3 align="center">A passionate web and software developer from Cameroon</h3>
+<h3 align="center">A passionate devops learner from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noumen635&label=Profile%20views&color=0e75b6&style=flat" alt="noumen635" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noumen635" alt="noumen635" /></a> </p>
 
-- 🔭 I’m currently working on [AfricaTrip](https://github.com/noumen635/AfricaTrip)
+- 🌱 I’m currently learning **everything concerning DevOps**
 
-- 🌱 I’m currently learning **devops tools like Jenkins, Docker, SonarQube, VeraCode, Kubernetes etc...**
+- 🤝 I’m looking for help with **finding some concrete projects on which I could work**
 
-- 🤝 I’m looking for help with **setting devops environment**
+- 💬 Ask me about **some DevOps procedures, practices, tools and so on...**
 
-- 💬 Ask me about **html, css, js, php, java, python**
-
-- 📫 How to reach me **noumendarryl@gmail.com**
+- 📫 How to reach me **by mailing at noumendarryl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
