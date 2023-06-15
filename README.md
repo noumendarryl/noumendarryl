@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **some DevOps procedures, practices, tools and so on...**
 
-- 📫 How to reach me **by mailing at noumendarryl@gmail.com**
+- 📫 Reach me **just by mailing at noumendarryl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
