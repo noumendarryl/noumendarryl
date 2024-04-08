@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm noumen darryl</h1>
-<h3 align="center">A passionate devsecops learner from Cameroon</h3>
+<h3 align="center">A passionate devops learner and web developer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noumen635&label=Profile%20views&color=0e75b6&style=flat" alt="noumen635" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noumen635" alt="noumen635" /></a> </p>
 
-- 🌱 I’m currently learning **everything concerning DevSecOps**
+- 🌱 I’m currently learning **everything concerning DevOps**
 
 - 🤝 I’m looking for help with **finding some concrete projects on which I could work**
 
