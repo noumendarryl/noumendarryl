@@ -2,9 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=noumen635&label=Profile%20views&color=0e75b6&style=flat" alt="noumen635" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darryl-noumen-941213255/) 
-
-
 **A passionate DevOps and Cloud engineer** dedicated to optimizing and automating software development and deployment processes. Leveraging cloud technologies to drive efficiency, scalability, and reliability. 
 
 I'm also constantly seeking innovative solutions to streamline operations and enhance performance.
@@ -15,6 +12,9 @@ I'm also constantly seeking innovative solutions to streamline operations and en
 - 🤝 I’m looking for help with finding **some concrete projects** on which I could work
 - 🌱 I’m currently learning **DevOps**, **Agile Methodology** and **Cloud computing**
 - 💬 Ask me about some **DevOps**, **Agile and Scrum practices**, **Web development** and **Cloud**
+
+### 🌐 Socials :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darryl-noumen-941213255/) 
 
 ## 🛠️ My Tech Stack :
 
