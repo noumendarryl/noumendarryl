@@ -2,7 +2,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=noumen635&label=Profile%20views&color=0e75b6&style=flat" alt="noumen635" />
 
-🔭 I’m looking to collaborate on any kind of software development projects involving DevOps practices<br>🤝 I’m looking for help with finding some concrete projects on which I could work<br>🌱 I’m currently learning DevOps, Agile Methodology and Cloud computing<br>💬 Ask me about some DevOps, Agile and Scrum practices, Web development<br>📫 Reach me just by mailing at noumendarryl@gmail.com
+- 🔭 I’m looking to collaborate on any kind of software development projects involving DevOps practices
+- 🤝 I’m looking for help with finding some concrete projects on which I could work
+- 🌱 I’m currently learning DevOps, Agile Methodology and Cloud computing
+- 💬 Ask me about some DevOps, Agile and Scrum practices, Web development
+- 📫 Reach me just by mailing at noumendarryl@gmail.com
 
 
 ### 🌐 Socials :
@@ -27,12 +31,12 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=noumen635&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=noumen635&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumen635&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=noumendarryl&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=noumen635&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=noumendarryl&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=noumen635&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=noumendarryl&limit=5&theme=dark&combine_all_yearly_contributions=true)
