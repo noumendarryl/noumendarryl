@@ -2,6 +2,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=noumen635&label=Profile%20views&color=0e75b6&style=flat" alt="noumen635" />
 
+**Passionate DevOps and Cloud engineer** dedicated to optimizing and automating software development and deployment processes. Leveraging cloud technologies to drive efficiency, scalability, and reliability. 
+
+I'm also onstantly seeking innovative solutions to streamline operations and enhance performance.
+
+### 💫 More about me
+
 - 🔭 I’m looking to collaborate on any kind of **software development projects involving DevOps practices**
 - 🤝 I’m looking for help with finding **some concrete projects** on which I could work
 - 🌱 I’m currently learning **DevOps**, **Agile Methodology** and **Cloud computing**
@@ -31,10 +37,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=noumendarryl&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noumendarryl)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=noumendarryl&limit=5&theme=default&combine_all_yearly_contributions=true)
