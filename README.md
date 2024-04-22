@@ -2,16 +2,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=noumen635&label=Profile%20views&color=0e75b6&style=flat" alt="noumen635" />
 
-**A passionate DevOps and Cloud engineer** dedicated to optimizing and automating software development and deployment processes. Leveraging cloud technologies to drive efficiency, scalability, and reliability. 
-
-I'm also constantly seeking innovative solutions to streamline operations and enhance performance.
+**A passionate DevOps and Cloud engineer** dedicated to optimizing and automating software development and deployment processes. Leveraging cloud technologies to drive efficiency, scalability, and reliability. I'm also constantly seeking innovative solutions to streamline operations and enhance performance.
 
 ### 💫 More about me
 
 - 🔭 I’m looking to collaborate on any kind of **software development projects involving DevOps practices**
 - 🤝 I’m looking for help with finding **some concrete projects** on which I could work
 - 🌱 I’m currently learning **DevOps**, **Agile Methodology** and **Cloud computing**
-- 💬 Ask me about some **DevOps**, **Agile and Scrum practices**, **Web development** and **Cloud**
+- 💬 Ask me about some **DevOps**, **Agile and Scrum practices** and **Web development**
 
 ### 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darryl-noumen-941213255/) 
@@ -35,9 +33,9 @@ I'm also constantly seeking innovative solutions to streamline operations and en
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=noumendarryl&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noumendarryl)
+
+![](https://github-readme-stats.vercel.app/api?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=noumendarryl&theme=default&hide_border=false)<br/>
