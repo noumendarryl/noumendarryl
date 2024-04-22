@@ -4,7 +4,7 @@
 
 **Passionate DevOps and Cloud engineer** dedicated to optimizing and automating software development and deployment processes. Leveraging cloud technologies to drive efficiency, scalability, and reliability. 
 
-I'm also onstantly seeking innovative solutions to streamline operations and enhance performance.
+I'm also constantly seeking innovative solutions to streamline operations and enhance performance.
 
 ### 💫 More about me
 
