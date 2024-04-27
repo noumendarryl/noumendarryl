@@ -37,7 +37,8 @@
   <div style="flex: 1;">![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
   <div style="flex: 1;">![](https://github-readme-stats.vercel.app/api?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)</div>
 </div>
-<center>![](https://github-readme-streak-stats.herokuapp.com/?user=noumendarryl&theme=default&hide_border=false)</center>
+
+<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=noumendarryl&theme=default&hide_border=false)</div>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noumendarryl)
