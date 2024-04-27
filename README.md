@@ -33,17 +33,12 @@
 
 
 ## 📊 GitHub Stats:
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: flex-start;">
     
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
     
-  </div>
-  <div style="flex: 1;">
-    
-  ![](https://github-readme-stats.vercel.app/api?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
-  
-  </div>
+  ![](https://github-readme-stats.vercel.app/api?username=noumendarryl&theme=default&show_icons=true&icon_color=34abeb&hide_border=false)  
+
 </div>
 
 <div align="center">
